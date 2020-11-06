@@ -4,10 +4,10 @@ This project was created with ReactJS & CSS.
 
 # How to setup
 
-*Extract files
-*Open node command line and browse to directory location
-*Install app (npm install)
-* Run app (npm start)
+1. Extract files
+2. Open node command line and browse to directory location
+3. Install app (npm install)
+4. Run app (npm start)
 
 
 # How does it work?

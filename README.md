@@ -2,15 +2,12 @@
 
 This project was created with ReactJS & CSS.
 
-# Available Scripts
+# How to setup
 
-In the project directory, you can run: npm start
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+*Extract files
+*Open node command line and browse to directory location
+*Install app (npm install)
+* Run app (npm start)
 
 
 # How does it work?

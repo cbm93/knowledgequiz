@@ -16,4 +16,8 @@ This quiz works by giving the user a set of 5 random questions to answer, once a
 
 # Comments
 
-This project was alot of fun and has helped me progress with my ReactJS skills, I had encounted a few problems with a few ternary expressions but in the end the project turned out how I wanted it too.
+This project was alot of fun and has helped me progress with my ReactJS skills, I had encounted a few problems with a few ternary expressions but in the end the project turned out how I wanted.
+
+# Screenshot
+
+![Knowledge Quiz](https://github.com/cbm93/knowledgequiz/blob/main/knowledgequiz.png)

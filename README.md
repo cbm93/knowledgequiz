@@ -21,3 +21,7 @@ This project was alot of fun and has helped me progress with my ReactJS skills, 
 # Screenshot
 
 ![Knowledge Quiz](https://github.com/cbm93/knowledgequiz/blob/main/knowledgequiz.png)
+
+# Demo
+
+![Knowledge Quiz](https://github.com/cbm93/knowledgequiz/blob/main/knowledgequiz.gif)
